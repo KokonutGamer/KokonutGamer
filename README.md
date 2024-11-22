@@ -22,5 +22,5 @@ I used to compose music from middle school all the way to high school. If you'd 
 ## Gaming
 - [Genshin Impact](https://akasha.cv/profile/644180410)
 - [Honkai: Star Rail](https://enka.network/hsr/601380216/)
-- [League of Legends](https://www.op.gg/summoners/na/Koi%20Fish-0424)
+- [League of Legends](https://www.op.gg/summoners/na/Koi%20Fish-0424)  
 ... And more!

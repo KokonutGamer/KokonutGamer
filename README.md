@@ -8,7 +8,7 @@ These are the tools I'm most comfortable using at the moment.
 | Type | My Stack |
 | :--- | :------- |
 | Languages | ![Java][JAVA] ![C++][CPP] ![HTML][HTML] ![CSS][CSS] ![TypeScript][TS] |
-| Frameworks | ![Angular][NG] ![BootStrap][BS] |
+| Frameworks | ![Angular][NG] ![BootStrap][BS] ![Spring][SB] |
 | Operating Systems | ![Ubuntu][UB] ![Windows][WIN] |
 
 ### 📚 _Past Experience_
@@ -46,6 +46,7 @@ You can find the original art [here](https://www.pixiv.net/en/artworks/99953666)
 [CSS]: https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff
 [NG]: https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white
 [BS]: https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff
+[SB]: https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff
 [UB]: https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white
 [WIN]: https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white
 

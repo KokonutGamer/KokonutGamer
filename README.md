@@ -5,11 +5,11 @@ Hello! I'm Gabe. I like coding, gaming, and music!
 ### 🚀 _Current Tech Stack_
 These are the tools I'm most comfortable using at the moment.
 
-| Type | My Stack |
-| :--- | :------- |
-| Languages | ![Java][JAVA] ![C++][CPP] ![HTML][HTML] ![CSS][CSS] ![TypeScript][TS] |
-| Frameworks | ![Spring][SB] ![Angular][NG] ![BootStrap][BS] |
-| Operating Systems | ![Ubuntu][UB] ![Windows][WIN] |
+| Type | Comfortable | Learning |
+| :--- | :---------- | :------- |
+| Languages | ![Java][JAVA] ![C++][CPP] ![HTML][HTML] ![CSS][CSS] | ![TypeScript][TS] |
+| Frameworks | | ![Spring][SB] ![Angular][NG] ![BootStrap][BS] |
+| Operating Systems | ![Ubuntu][UB] ![Windows][WIN] | |
 
 ### 📚 _Past Experience_
 In my journey as a developer, I've bounced around different tools.

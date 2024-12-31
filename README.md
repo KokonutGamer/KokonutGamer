@@ -8,7 +8,7 @@ These are the tools I'm most comfortable using at the moment.
 | Type | My Stack |
 | :--- | :------- |
 | Languages | ![Java][JAVA] ![C++][CPP] ![HTML][HTML] ![CSS][CSS] ![TypeScript][TS] |
-| Frameworks | ![Angular][NG] ![BootStrap][BS] ![Spring][SB] |
+| Frameworks | ![Spring][SB] ![Angular][NG] ![BootStrap][BS] |
 | Operating Systems | ![Ubuntu][UB] ![Windows][WIN] |
 
 ### 📚 _Past Experience_

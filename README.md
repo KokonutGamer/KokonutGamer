@@ -9,6 +9,7 @@ These are the tools I'm most comfortable using at the moment.
 | :--- | :---------- | :------- |
 | Languages | ![Java][JAVA] ![C++][CPP] ![HTML][HTML] ![CSS][CSS] | ![TypeScript][TS] |
 | Frameworks | | ![Spring][SB] ![Angular][NG] ![BootStrap][BS] |
+| Databases | | ![PostgreSQL][PSQL] ![Firebase][FB] |
 | Operating Systems | ![Ubuntu][UB] ![Windows][WIN] | |
 
 ### 📚 _Past Experience_
@@ -49,6 +50,8 @@ You can find the original art [here](https://www.pixiv.net/en/artworks/99953666)
 [SB]: https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff
 [UB]: https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white
 [WIN]: https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white
+[PSQL]: https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white
+[FB]: https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white
 
 [UNITY]: https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white
 [JDA]: https://img.shields.io/badge/Java%20Discord%20API-%235865F2.svg?&logo=discord&logoColor=white

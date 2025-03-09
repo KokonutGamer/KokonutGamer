@@ -8,8 +8,8 @@ These are the tools I'm most comfortable using at the moment.
 | Type | Comfortable | Learning |
 | :--- | :---------- | :------- |
 | Languages | ![Java][JAVA] ![C++][CPP] ![HTML][HTML] ![CSS][CSS] | ![TypeScript][TS] |
-| Frameworks | | ![Spring][SB] ![Angular][NG] ![BootStrap][BS] |
-| Databases | | ![PostgreSQL][PSQL] ![Firebase][FB] |
+| Frameworks | ![Spring][SB] | ![Angular][NG] ![BootStrap][BS] |
+| Databases | ![PostgreSQL][PSQL] | ![Firebase][FB] |
 | Operating Systems | ![Ubuntu][UB] ![Windows][WIN] | |
 
 ### 📚 _Past Experience_

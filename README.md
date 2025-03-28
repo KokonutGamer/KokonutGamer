@@ -12,8 +12,8 @@ These are the tools I'm most comfortable using at the moment.
 | Databases | ![PostgreSQL][PSQL] | ![Firebase][FB] |
 | Operating Systems | ![Ubuntu][UB] ![Windows][WIN] | |
 
-### 📚 _Past Experience_
-In my journey as a developer, I've bounced around different tools.
+### 📚 _Other Experience_
+I've bounced around different frameworks and technologies over the years.
 
 | Year | Tools |
 | :--- | :---- |

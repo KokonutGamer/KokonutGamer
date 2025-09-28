@@ -36,10 +36,6 @@ I used to compose music from middle school all the way to high school. If you'd 
 - [🔵 League of Legends](https://www.op.gg/summoners/na/Koi%20Fish-0424)  
 ... And more!
 
-### 🐟 _Profile Picture_
-In case you were wondering who is in my PFP, that's [Sangonomiya Kokomi](https://genshin-impact.fandom.com/wiki/Sangonomiya_Kokomi), my favorite character from Genshin Impact. 
-You can find the original art [here](https://www.pixiv.net/en/artworks/99953666).
-
 [JAVA]: https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white
 [CPP]: https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white
 [TS]: https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff

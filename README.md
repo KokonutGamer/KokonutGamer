@@ -29,9 +29,8 @@ I've bounced around different frameworks and technologies over the years.
 
 ## 🎵 Music
 I used to compose music from middle school all the way to high school. If you'd like to check out my work, here are my public profiles:
-- [SoundCloud](https://soundcloud.com/koi_fish_no_yokan)
-- [MuseScore](https://musescore.com/user/29746188)
-- [Flat.io](https://flat.io/@koi_fish_no_yokan)
+
+[![SoundCloud][SOUND]](https://soundcloud.com/koi_fish_no_yokan) [![Musescore][MUSE]](https://musescore.com/user/29746188) [![Flat.io][FLAT]](https://flat.io/@koi_fish_no_yokan)
 
 ## 🎮 Gaming
 I don't play these games that much these days but here are some of my accounts:
@@ -63,3 +62,8 @@ I don't play these games that much these days but here are some of my accounts:
 [UNITY]: https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white
 [JDA]: https://img.shields.io/badge/Java%20Discord%20API-%235865F2.svg?&logo=discord&logoColor=white
 [GD]: https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine
+
+[SOUND]: https://img.shields.io/badge/Soundcloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white
+[MUSE]: https://img.shields.io/badge/Musescore-white?style=for-the-badge&logo=musescore&logoColor=1D2983
+[FLAT]: https://img.shields.io/badge/Flat.io-3981FF?style=for-the-badge&logo=flat&logoColor=white
+

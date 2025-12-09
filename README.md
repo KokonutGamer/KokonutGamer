@@ -7,11 +7,11 @@ These are the tools I'm most comfortable using at the moment.
 
 | Type | Intermediate | Beginner |
 | :--- | :---------- | :------- |
-| Languages | ![Java][JAVA]  ![HTML][HTML] ![CSS][CSS] ![JavaScript][JS] ![TypeScript][TS] | ![C++][CPP] |
+| Languages | ![Java][JAVA]  ![HTML][HTML] ![CSS][CSS] ![JavaScript][JS] | ![TypeScript][TS] ![C++][CPP] |
 | Frameworks / Libraries | ![Spring][SB] ![React][REACT] | ![Angular][NG] ![BootStrap][BS] |
 | Databases | ![PostgreSQL][PSQL] | ![Supabase][SUPA] ![Firebase][FB] |
-| Operating Systems | ![Ubuntu][UB] ![Windows][WIN] | |
-| Other Tools | ![Eclipse][ECL] ![Visual Studio Code][VSC] | ![Insomnia][INS] ![IntelliJ][IDEA] |
+| Operating Systems | ![Ubuntu][UB] ![Windows][WIN] | ![Alpine][ALP] |
+| Other Tools | ![Eclipse][ECL] ![Visual Studio Code][VSC] | ![Insomnia][INS] ![IntelliJ][IDEA] ![Docker][DOCK] ![Vite][VITE] |
 
 ### 📚 _Other Experience_
 I've bounced around different frameworks and technologies over the years.
@@ -50,6 +50,7 @@ I don't play these games that much these days but here are some of my accounts:
 [SB]: https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff
 [UB]: https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white
 [WIN]: https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white
+[ALP]: https://img.shields.io/badge/Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff
 [PSQL]: https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white
 [FB]: https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white
 [REACT]: https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB
@@ -58,6 +59,8 @@ I don't play these games that much these days but here are some of my accounts:
 [VSC]: https://custom-icon-badges.demolab.com/badge/VSCode-0078d7.svg?logo=vsc&logoColor=white
 [ECL]: https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white
 [IDEA]: https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white
+[DOCK]: https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff
+[VITE]: https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff
 
 [UNITY]: https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white
 [JDA]: https://img.shields.io/badge/Java%20Discord%20API-%235865F2.svg?&logo=discord&logoColor=white

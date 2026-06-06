@@ -5,13 +5,13 @@ Hello! I'm Gabe. I like coding, gaming, and music!
 ### 🚀 _Current Tech Stack_
 These are the tools I'm most comfortable using at the moment.
 
-| Type | Intermediate | Beginner |
-| :--- | :---------- | :------- |
-| Languages | ![Java][JAVA]  ![HTML][HTML] ![CSS][CSS] ![JavaScript][JS] | ![TypeScript][TS] ![C++][CPP] ![C][C] ![Python][PY] |
-| Frameworks / Libraries | ![Spring][SB] ![React][REACT] | ![Angular][NG] ![BootStrap][BS] |
-| Databases | ![PostgreSQL][PSQL] | ![Supabase][SUPA] ![Firebase][FB] |
-| Operating Systems | ![Ubuntu][UB] ![Windows][WIN] | ![Alpine][ALP] |
-| Other Tools | ![Eclipse][ECL] ![Visual Studio Code][VSC] | ![Insomnia][INS] ![IntelliJ][IDEA] ![Docker][DOCK] ![Vite][VITE] |
+| Type | Tools |
+| :--- | :---- |
+| Languages | ![Java][JAVA] ![C++][CPP] ![C][C] ![Python][PY] ![HTML][HTML] ![CSS][CSS] ![JavaScript][JS] |
+| Frameworks / Libraries | ![Spring][SB] ![React][REACT] |
+| Databases | ![PostgreSQL][PSQL] ![Supabase][SUPA] |
+| Operating Systems | ![Ubuntu][UB] ![Windows][WIN] ![Alpine][ALP] |
+| Misc. | ![Visual Studio Code][VSC] ![Insomnia][INS] ![Docker][DOCK] ![Vite][VITE] |
 
 ### 📚 _Other Experience_
 I've bounced around different frameworks and technologies over the years.
@@ -21,11 +21,12 @@ I've bounced around different frameworks and technologies over the years.
 | 2019 | ![Unity][UNITY] |
 | 2022 | ![Java Discord API][JDA] |
 | 2025 | ![Godot][GD] |
+| 2026 | ![OpenCV][CV] ![Jupyter][JUP] | 
 
 > [!NOTE]
 > I'm currently interested in building low-level systems.
 > I'd like to learn how to program a GPU in the future, too!
-> I want to eventually finish building an HTTP server from scratch.
+> I'm thinking of building a game engine with help from The Cherno's tutorial series... We'll see how that goes.
 
 ## 🎵 Music
 I used to compose music from middle school all the way to high school. If you'd like to check out my work, here are my public profiles:
@@ -67,6 +68,8 @@ I don't play these games that much these days but here are some of my accounts:
 [VITE]: https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff
 [VSC]: https://custom-icon-badges.demolab.com/badge/VSCode-0078d7.svg?logo=vsc&logoColor=white
 
+[JUP]: https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter
+[CV]: https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff
 [GD]: https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine
 [JDA]: https://img.shields.io/badge/Java%20Discord%20API-%235865F2.svg?&logo=discord&logoColor=white
 [UNITY]: https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white

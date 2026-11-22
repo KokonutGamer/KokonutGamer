@@ -1,27 +1,15 @@
-## Welcome to my profile! 🐟
+## Welcome to my profile!
 Hello! I'm Gabe. I like coding, gaming, and music!
 
 ## 💻 Programming
-### 🚀 _Current Tech Stack_
 These are the tools I'm most comfortable using at the moment.
 
 | Type | Tools |
 | :--- | :---- |
-| Languages | ![Java][JAVA] ![C++][CPP] ![C][C] ![Python][PY] ![HTML][HTML] ![CSS][CSS] ![JavaScript][JS] |
-| Frameworks / Libraries | ![Spring][SB] ![React][REACT] |
-| Databases | ![PostgreSQL][PSQL] ![Supabase][SUPA] |
-| Operating Systems | ![Ubuntu][UB] ![Windows][WIN] ![Alpine][ALP] |
-| Misc. | ![Visual Studio Code][VSC] ![Insomnia][INS] ![Docker][DOCK] ![Vite][VITE] |
-
-### 📚 _Other Experience_
-I've bounced around different frameworks and technologies over the years.
-
-| Year | Tools |
-| :--- | :---- |
-| 2019 | ![Unity][UNITY] |
-| 2022 | ![Java Discord API][JDA] |
-| 2025 | ![Godot][GD] |
-| 2026 | ![OpenCV][CV] ![Jupyter][JUP] | 
+| Languages | ![C++][CPP] ![C][C] ![Python][PY] ![Java][JAVA] |
+| Databases | ![PostgreSQL][PSQL] |
+| Operating Systems | ![Ubuntu][UB] ![Windows][WIN] |
+| Misc. | ![Visual Studio Code][VSC] ![Docker][DOCK] |
 
 > [!NOTE]
 > I'm currently interested in building low-level systems.
